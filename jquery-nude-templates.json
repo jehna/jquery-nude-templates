@@ -1,0 +1,25 @@
+{
+  "name": "nude",
+  "title": "jQuery Nude Templates",
+  "description": "Nude Templates for jQuery - Fast, simple templates that work like you'd want them to.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jehna/jquery-nude-templates",
+  "author": {
+    "name": "Jesse Luoto (@jehna)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jehna/jquery-nude-templates.git"
+  },
+  "bugs": "https://github.com/jehna/jquery-nude-templates/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jesseluoto/jquerytempla/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
